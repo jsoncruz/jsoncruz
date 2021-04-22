@@ -1,7 +1,7 @@
 # 👋 Hello guys! I'm Judson Cruz
 
 - 📫 How to reach me: judson.play1@gmail.com
-- 💬 Ask me about: **Typescript, React, GraphQL, Vue**
+- 💬 Ask me about: **Typescript, React, NextJS, GraphQL**
 
 <!--
 **jsoncruz/jsoncruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
