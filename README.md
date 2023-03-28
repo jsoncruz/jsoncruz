@@ -1,20 +1,16 @@
-# 👋 Hello guys! I'm Judson Cruz
+## 👋 Welcome to my GitHub profile!
 
-- 📫 How to reach me: judson.play1@gmail.com
-- 💬 Ask me about: **Typescript, React, NextJS, GraphQL**
+I'm Judson Cruz, a software developer passionate about technology and innovation. Currently, I work as a Fullstack developer, with a focus on TypeScript, React, NextJS, and GraphQL. I also enjoy contributing to open source projects and learning new technologies.
 
-<!--
-**jsoncruz/jsoncruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Skills and interests
 
-Here are some ideas to get you started:
+- TypeScript
+- React
+- NextJS
+- GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsoncruz&layout=compact)](https://github.com/jsoncruz/github-readme-stats)
+![Jsoncruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsoncruz&count_private=true&show_icons=true)
+
+![Jsoncruz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsoncruz&layout=compact)
